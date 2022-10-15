@@ -1,0 +1,14 @@
+h1 
+{
+    color:rgb(216, 174, 225);
+    font-weight: 300px;
+    font-family:'Fredericka the Great', cursive;
+}
+h4 
+{
+    color:rgb(156, 188, 239);
+    font-weight:100px;
+    font-family:'Fredericka the Great', cursive;
+}
+body {font-family:'Fredericka the Great', cursive;}
+.accordion-body a {color: rgb(177, 232, 185);}
